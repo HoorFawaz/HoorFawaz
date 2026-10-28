@@ -1,15 +1,15 @@
-<!-- Banner: upload your banner image to the repository as banner.gif -->
+<!-- Banner -->
 <p align="center">
   <img src="./banner.gif" width="100%" alt="GitHub Profile Banner" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=F4A7C5&center=true&vCenter=true&width=520&lines=Hello%2C+World!+%F0%9F%8C%B8;Cybersecurity+%7C+AI+%7C+Software+Development;Turning+Ideas+Into+Projects." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1500&color=F472B6&center=true&vCenter=true&width=650&lines=Hello%2C+World!+%F0%9F%8C%B8;This+is+a+little+space+of+my+own;Where+I+turn+ideas+into+projects." alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/github/followers/HoorFawaz?label=Followers&style=for-the-badge&color=F4A7C5&labelColor=0d1117" alt="GitHub Followers" />
-  <img src="https://img.shields.io/github/stars/HoorFawaz?label=Stars&style=for-the-badge&color=F4A7C5&labelColor=0d1117" alt="GitHub Stars" />
+  <img src="https://img.shields.io/github/followers/HoorFawaz?label=Followers&style=for-the-badge&color=F472B6&labelColor=0d1117" alt="GitHub Followers" />
+  <img src="https://img.shields.io/github/stars/HoorFawaz?label=Stars&style=for-the-badge&color=F472B6&labelColor=0d1117" alt="GitHub Stars" />
 </p>
 
 ---
@@ -48,17 +48,14 @@ A women-focused Islamic AI assistant that delivers source-grounded answers using
 
 ---
 
-## 🛠️ Languages & Tools
+## 🛠️ Languages
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,java,js,ts,react,flask,fastapi,php,mysql,sqlite,postgres,html,css,linux,git,github&perline=8" alt="Languages and Technologies" />
 </p>
 
-### 🔐 Cybersecurity
 
-SOC Operations · DFIR · Threat Detection · Digital Forensics · Network Security
-
-### 🧰 Security Tools
+## 🧰 Security Tools
 
 <p align="left">
   <img src="https://img.shields.io/badge/Splunk-SIEM-000000?style=flat-square&logo=splunk&logoColor=65A637" alt="Splunk SIEM" />
