@@ -4,12 +4,12 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=F472B6&center=true&vCenter=true&width=520&lines=Hello%2C+World!+%F0%9F%8C%B8;Cybersecurity+%7C+AI+%7C+Software+Development;Turning+Ideas+Into+Projects." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=F4A7C5&center=true&vCenter=true&width=520&lines=Hello%2C+World!+%F0%9F%8C%B8;Cybersecurity+%7C+AI+%7C+Software+Development;Turning+Ideas+Into+Projects." alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/github/followers/HoorFawaz?label=Followers&style=for-the-badge&color=F472B6&labelColor=0d1117" alt="GitHub Followers" />
-  <img src="https://img.shields.io/github/stars/HoorFawaz?label=Stars&style=for-the-badge&color=F472B6&labelColor=0d1117" alt="GitHub Stars" />
+  <img src="https://img.shields.io/github/followers/HoorFawaz?label=Followers&style=for-the-badge&color=F4A7C5&labelColor=0d1117" alt="GitHub Followers" />
+  <img src="https://img.shields.io/github/stars/HoorFawaz?label=Stars&style=for-the-badge&color=F4A7C5&labelColor=0d1117" alt="GitHub Stars" />
 </p>
 
 ---
@@ -75,8 +75,8 @@ SOC Operations · DFIR · Threat Detection · Digital Forensics · Network Secur
 
 <p align="center">
   <a href="https://github.com/HoorFawaz"><img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="https://www.linkedin.com/in/hoorf"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=F472B6" alt="LinkedIn" /></a>
-  <a href="mailto:HoorFawaz.IT@gmail.com"><img src="https://img.shields.io/badge/Gmail-0d1117?style=for-the-badge&logo=gmail&logoColor=F472B6" alt="Email" /></a>
+  <a href="https://www.linkedin.com/in/hoorf"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=F4A7C5" alt="LinkedIn" /></a>
+  <a href="mailto:HoorFawaz.IT@gmail.com"><img src="https://img.shields.io/badge/Gmail-0d1117?style=for-the-badge&logo=gmail&logoColor=F4A7C5" alt="Email" /></a>
 </p>
 
 ---
@@ -84,11 +84,20 @@ SOC Operations · DFIR · Threat Detection · Digital Forensics · Network Secur
 ## 📊 GitHub Stats
 
 <p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=HoorFawaz&show_icons=true&hide_border=true&bg_color=0d1117&title_color=F4A7C5&icon_color=F4A7C5&text_color=c9d1d9" alt="GitHub Stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HoorFawaz&layout=compact&hide_border=true&bg_color=0d1117&title_color=F4A7C5&text_color=c9d1d9" alt="Top Languages" />
+</p>
 
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=HoorFawaz&show_icons=true&hide_border=true&bg_color=0d1117&title_color=F472B6&icon_color=F472B6&text_color=c9d1d9" alt="GitHub Stats" />
+---
 
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HoorFawaz&layout=compact&hide_border=true&bg_color=0d1117&title_color=F472B6&text_color=c9d1d9" alt="Top Languages" />
+## 📊 Contribution Graph
 
+<p align="center">
+  <img
+    src="https://gitcolors.vercel.app/api/svg?username=HoorFawaz&color=f4a7c5&theme=dark&mode=levels&preset=none&animate=true&emptyColor=filled"
+    width="846"
+    alt="GitHub Contribution Graph"
+  />
 </p>
 
 ---
