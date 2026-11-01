@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="./banner.gif" width="100%" alt="GitHub Profile Banner" />
+  <img src="./banner1.gif" width="100%" alt="GitHub Profile Banner" />
 </p>
 
 <p align="center">
