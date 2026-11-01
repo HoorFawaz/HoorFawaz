@@ -38,7 +38,7 @@ A tool for testing Sigma detection rules against evolving attack techniques, ide
 
 `Python` `Sigma` `PyYAML` `Streamlit` `Pytest` `GitHub Actions CI`
 
-### 🕵️ [ForenTrace](https://github.com/HoorFawaz/ForenTrace) · [Live Demo](https://forentrace.onrender.com)
+### 🕵🏻‍♀️ [ForenTrace](https://github.com/HoorFawaz/ForenTrace) · [Live Demo](https://forentrace.onrender.com)
 
 An interactive DFIR training platform with guided investigations and automated report evaluation.
 
