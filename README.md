@@ -8,8 +8,8 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/github/followers/HoorFawaz?label=Followers&style=for-the-badge&color=F4A7C5&labelColor=0d1117" alt="GitHub Followers" />
-  <img src="https://img.shields.io/github/stars/HoorFawaz?label=Stars&style=for-the-badge&color=F4A7C5&labelColor=0d1117" alt="GitHub Stars" />
+  <img src="https://img.shields.io/github/followers/HoorFawaz?label=Followers&style=for-the-badge&color=F4A7C5&labelColor=0d1117&cacheSeconds=3600" alt="GitHub Followers" />
+  <img src="https://img.shields.io/github/stars/HoorFawaz?label=Stars&style=for-the-badge&color=F4A7C5&labelColor=0d1117&cacheSeconds=3600" alt="GitHub Stars" />
 </p>
 
 ---
