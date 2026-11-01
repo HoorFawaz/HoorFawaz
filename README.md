@@ -78,8 +78,8 @@ A women-focused Islamic AI assistant that delivers source-grounded answers using
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=HoorFawaz&show_icons=true&hide_border=true&bg_color=0d1117&title_color=F4A7C5&icon_color=F4A7C5&text_color=c9d1d9" alt="GitHub Stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HoorFawaz&layout=compact&hide_border=true&bg_color=0d1117&title_color=F4A7C5&text_color=c9d1d9" alt="Top Languages" />
+  <img height="170" src="https://github-stats-extended.vercel.app/api?username=HoorFawaz&show_icons=true&hide_border=true&bg_color=0d1117&title_color=F4A7C5&icon_color=F4A7C5&text_color=c9d1d9" alt="GitHub Stats" />
+  <img height="170" src="https://github-stats-extended.vercel.app/api/top-langs/?username=HoorFawaz&layout=compact&hide_border=true&bg_color=0d1117&title_color=F4A7C5&text_color=c9d1d9" alt="Top Languages" />
 </p>
 
 ---
