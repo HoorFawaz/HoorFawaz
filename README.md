@@ -16,42 +16,46 @@
 
 ## 🌸 About Me
 
-IT student with an academic Cybersecurity track, passionate about exploring ideas, learning new technologies, and turning concepts into practical projects. This space is where I experiment, build, and grow by applying what I learn across cybersecurity, AI, and software development.
+I enjoy exploring how things work, experimenting with new ideas, and turning what I learn into something real.
+
+Most of my projects revolve around cybersecurity and software development, with a little room for trying out different technologies along the way.
+
+Always curious, always building something.
 
 ---
 
-## 📂 Top Projects
+## 💡 Things I've Built
 
 ### 🛡️ [HISN | حصن](https://github.com/HoorFawaz/HISN)
 
-A low-cost DNS-based solution that protects all home network devices from phishing.
+A DNS-based phishing protection system that helps secure all devices connected to a home network.
 
 `Python` `scikit-learn` `dnslib` `Flask` `SQLite` `DNS` `RDAP`
 
 ### 🔍 [YAGTHA | يقظة](https://github.com/HoorFawaz/YAGTHA)
 
-Tests Sigma detection rules against evolving attack techniques and AI-assisted evasion.
+A tool for testing Sigma detection rules against evolving attack techniques, identifying detection gaps and improving rule reliability.
 
 `Python` `Sigma` `PyYAML` `Streamlit` `Pytest` `GitHub Actions CI`
 
 ### 🕵️ [ForenTrace](https://github.com/HoorFawaz/ForenTrace) · [Live Demo](https://forentrace.onrender.com)
 
-A digital forensics training platform with guided investigations and automated report evaluation.
+An interactive DFIR training platform with guided investigations and automated report evaluation.
 
 `React` `TypeScript` `Tailwind CSS` `FastAPI` `PostgreSQL`
 
 ### 📖 [BASEERAH AI | بصيرة](https://github.com/HoorFawaz/Baseerah-AI) · [Live Demo](https://baseerah-ai-sigma.vercel.app)
 
-A women-focused Islamic AI assistant that delivers source-grounded answers using RAG.
+A women-focused Islamic AI assistant that uses RAG to deliver answers grounded in trusted Islamic sources.
 
 `Python` `FastAPI` `RAG` `SQLite` `FTS5` `Sentence Transformers` `Ollama` `HTML` `JavaScript`
 
 ---
 
-## 🛠️ Languages & Tools
+## 👩🏻‍💻 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,js,ts,react,flask,fastapi,php,mysql,sqlite,postgres,html,css,linux,git,github&perline=8" alt="Languages and Technologies" />
+  <img src="https://skillicons.dev/icons?i=python,java,js,ts,react,flask,fastapi,php,mysql,sqlite,postgres,html,css,tailwind,linux,git,github,vscode&perline=9" alt="Tech Stack" />
 </p>
 
 <p align="center">
@@ -65,7 +69,7 @@ A women-focused Islamic AI assistant that delivers source-grounded answers using
 
 ---
 
-## ✉️ Connect With Me
+## 💌 Find Me Around
 
 <p align="center">
   <a href="https://github.com/HoorFawaz"><img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
@@ -75,7 +79,7 @@ A women-focused Islamic AI assistant that delivers source-grounded answers using
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub at a Glance
 
 <p align="center">
   <img height="170" src="https://github-stats-extended.vercel.app/api?username=HoorFawaz&show_icons=true&hide_border=true&bg_color=0d1117&title_color=F4A7C5&icon_color=F4A7C5&text_color=c9d1d9" alt="GitHub Stats" />
@@ -84,7 +88,7 @@ A women-focused Islamic AI assistant that delivers source-grounded answers using
 
 ---
 
-## 📊 Contribution Graph
+## 🌱 My Contributions
 
 <p align="center">
   <img
